@@ -1,0 +1,10 @@
+.GameBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  width: 20em;
+  height: 25em;
+  margin-bottom: 0em;
+}

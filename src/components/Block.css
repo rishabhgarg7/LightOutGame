@@ -1,0 +1,8 @@
+.Block {
+  width: 4em;
+  height: 4em;
+  border: 0.1em;
+  border-block-end-color: aquamarine;
+  border-block-end-style: dashed;
+  border-color: white;
+}

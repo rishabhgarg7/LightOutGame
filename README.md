@@ -1,2 +1,0 @@
-# LightOutGame
-Created with CodeSandbox
